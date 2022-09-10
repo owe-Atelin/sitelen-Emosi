@@ -862,13 +862,13 @@ emojis_language[lang][6] = {
 };
 /*flags*/
 emojis_language[lang][7] = {
-    "🏁": ["Chequered Flag", "Checkered Flag", "Grid Girl", "Racing Flag"],
-    "🚩": ["Triangular Flag", "Flag on Pole", "Red Flag", "Triangular Flag on Post"],
-    "🎌": ["Crossed Flags", "Two Flags"],
-    "🏴": ["Black Flag", "Waving Black Flag"],
-    "🏳️": ["White Flag", "Waving White Flag"],
-    "🏳️‍🌈": ["Rainbow Flag", "Pride Flag", "LGBT", "LGBTQIA+", "Gay", "Transgender", "Lesbian", "Asexual", "Queer"],
-    "🏳️‍⚧️": ["Transgender Flag", "Blue, Pink, and White Flag", "Trans Flag"],
+    "🏁": ["len"],
+    "🚩": ["len"],
+    "🎌": ["len", "len tu"],
+    "🏴": ["len pimeja"],
+    "🏳️": ["len walo"],
+    "🏳️‍🌈": ["len kule", "kule"],
+    "🏳️‍⚧️": ["tonsi", "len tonsi"],
     "🏴‍☠️": ["Pirate Flag", "Jolly Roger"],
     "🇺🇳": ["Flag of United Nations", "UN", "Flag: United Nations"],
     "🇪🇺": ["Flag of European Union", "EU", "Flag: European Union", "EU Flag"],
