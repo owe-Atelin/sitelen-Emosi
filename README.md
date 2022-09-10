@@ -3,7 +3,7 @@
 <h1 align="center">
     <br>
     tooooooki aaaa!!!! 
-    sina wile ante la o oko e /js/languages/tok-TOK/emoji.js
+    sina wile ante la o oko e /js/languages/tok-TOK/emojis.js
     <br>
 </h1>
 
