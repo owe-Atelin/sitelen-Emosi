@@ -1,3 +1,13 @@
+
+
+<h1 align="center">
+    <br>
+    tooooooki aaaa!!!! 
+    sina wile ante lao oko e /js/languages/tok-TOK/emoji.js
+    <br>
+</h1>
+
+
 <h1 align="center">
     <br>
     <img width="70" src="img/icon-dark-128.png" alt="Emoji icon" />
